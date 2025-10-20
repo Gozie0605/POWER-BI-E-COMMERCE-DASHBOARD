@@ -14,7 +14,7 @@ This project analyzes e-commerce sales data to identify revenue trends, top-perf
 - Month-on-month growth trends highlight consistent sales increases.
 
 ## 🖼 Dashboard Preview
-*)*
+*[E-Commerce Dashboard](images/capture.png)*
 
 ## 🧠 Learnings
 - Improved Power Query transformation and data modeling skills.
